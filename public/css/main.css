@@ -1145,7 +1145,7 @@ pre .javascript .function {
 }
 .headband {
   height: 3px;
-  background: #1c6589;
+  background: transparent;
 }
 .site-meta {
   margin: 0;
@@ -2570,7 +2570,7 @@ embed {
 .menu .menu-item a:hover,
 .menu .menu-item span.exturl:hover {
   border-bottom-color: #1c6589 !important;
-  color: #1c6589;
+  color: #8cc9e7;
 }
 @media (max-width: 767px) {
   .menu-item-active a,

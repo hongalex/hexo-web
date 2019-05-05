@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hongalex.com
+Token: 9cc0c6bd28cc001b4f245314ef171aa913f67ee3c1fa3c7da13fc953b9a3723f

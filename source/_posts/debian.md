@@ -1,9 +1,10 @@
 ---
 title: Operating Systems on my PC 
-date: 2019-6-03 11:00:00
+date: 2019-6-03 19:20:00
 categories:
-  - interviewing
-  - devrel 
+  - pc
+  - setup
+  - linux 
 ---
 
 I originally built my first desktop computer in the summer of 2017, just before the [crypto-boom and GPU price spikes](https://storage.googleapis.com/hongalex-static-files/crypto.png) that occurred towards the end of the year. I was pretty happy with the way it turned out, paying about $1100 USD for the following specs:
@@ -56,7 +57,9 @@ I'm writing this post because within 24 hours of installing Debian, I've bricked
 9. Install fish and omf
 
     `sudo apt install fish`
+
     `curl -L https://get.oh-my.fish | fish`
+
     `omf install agnoster`
 
 10. Change default shell

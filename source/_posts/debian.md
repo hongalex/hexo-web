@@ -32,7 +32,7 @@ I'm writing this post because within 24 hours of installing Debian, I've bricked
 1. Create USB bootloader with min 8gb USB stick, [Rufus](https://rufus.ie/), and [Debian](https://www.debian.org/distrib/)
 2. Boot with your flashed USB stick and select "Graphical Install" with preferred settings:
       * Couple of options here. I personally enjoy [Cinnamon](https://packages.debian.org/search?keywords=cinnamon) for my desktop environment
-      * I used an entire 250GB without a partition, but you could partition a larger disk beforehand if you don't have an entire disk to spare.
+      * I used an entire 250GB SSD without a partition, but you could partition a larger disk beforehand if you don't have an entire disk to spare.
 3. From Debian GRUB menu, do the following to boot with CPU-based graphics. Otherwise you will get a black screen.
 
       * Press `e` to edit the boot command under the first option.
